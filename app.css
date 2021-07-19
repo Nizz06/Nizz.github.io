@@ -7,6 +7,6 @@
 .banner{
   width: 100%;
   height: 100vh;
-  background-image:url(Backdrop.jpg);
+  background-image:url(Backdrop.png);
   background-size: cover;
 }
